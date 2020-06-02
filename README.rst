@@ -20,6 +20,7 @@ Then, you need to do the following: in the project directory:
   # source bin/activate
   
   # pip install -r requirements.txt
+  
   # cd app; python runserver.py
   ...
   
